@@ -1,3 +1,4 @@
+
 # 定玖的作品集
 
 # Experience
@@ -5,6 +6,11 @@
 **Hello! I'm liaodingjiu, a multidisciplinary designer based in San Francisco.** With over 8 years of experience, I thrive at the intersection of digital design, UX/UI, and brand identity. My passion lies in crafting seamless user experiences and visually compelling designs that resonate with audiences and drive engagement.
 
 # About Me
+
+<div class="green-border-list">
+About Me
+</div>
+
 
 I'm a creative thinker, a problem solver, and an avid learner, always exploring new trends and techniques in design. When I'm not pushing pixels, you can find me with a sketchbook, capturing the world or lost in the pages of a good design book.
 
