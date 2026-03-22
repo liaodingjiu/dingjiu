@@ -3,15 +3,15 @@
 
  
 <aside>
-🎨 **Hello! I'm liaodingjiu, a multidisciplinary designer based in San Francisco.** With over 8 years of experience, I thrive at the intersection of digital design, UX/UI, and brand identity. My passion lies in crafting seamless user experiences and visually compelling designs that resonate with audiences and drive engagement.
+**Hello! I'm liaodingjiu, a multidisciplinary designer based in San Francisco.** With over 8 years of experience, I thrive at the intersection of digital design, UX/UI, and brand identity. My passion lies in crafting seamless user experiences and visually compelling designs that resonate with audiences and drive engagement.
 
 </aside>
 
-# 🌈 About Me
+# About Me
 
 I'm a creative thinker, a problem solver, and an avid learner, always exploring new trends and techniques in design. When I'm not pushing pixels, you can find me with a sketchbook, capturing the world or lost in the pages of a good design book.
 
-# 💼 Experience
+# Experience
 
 ### Senior UX/UI Designer - Creative Minds Inc. | June 2018 - Present
 
@@ -24,7 +24,7 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 - Developed brand identities, including logos, typography, and color schemes, for over 30 clients.
 - Produced marketing materials, digital ads, and promotional content, resulting in a 25% increase in client engagement for key accounts.
 
-# 🎓 Education
+# Education
 
 ### Master of Fine Arts in Design - Rhode Island School of Design | 2013
 
@@ -36,7 +36,7 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 - Graduated with Honors
 - Relevant coursework: Typography, Web Design, Digital Photography
 
-# 🚀 Projects
+# Projects
 
 ### "EcoLife" Mobile App
 
@@ -50,7 +50,7 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 - Role: Brand Strategist & Designer
 - Tools: Illustrator, Photoshop, Procreate
 
-# 🔨 Skills
+# Skills
 
 - User Experience (UX) Design
 - User Interface (UI) Design
@@ -59,11 +59,11 @@ I'm a creative thinker, a problem solver, and an avid learner, always exploring 
 - Sketch & InVision
 - Prototyping & Wireframing
 
-# 📬 Contact
+#  Contact
 
 Let's create something amazing together! Reach out to me at:
 
-- Email: 28758884[@](mailto:ada@yourdomain.com)qq.com
+- Email: 28758884[@](mailto:28758884@qq.com)qq.com
 - Portfolio: http://www.liaodingjiu.com
 
 Thanks for stopping by my corner of the internet! 💫
