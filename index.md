@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: _posts
 title:定玖的作品集
 ---
 
