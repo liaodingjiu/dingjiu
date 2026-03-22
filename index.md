@@ -7,9 +7,8 @@
 
 # About Me
 
-<div class="green-border-list">
-About Me
-</div>
+
+> - About Me
 
 
 I'm a creative thinker, a problem solver, and an avid learner, always exploring new trends and techniques in design. When I'm not pushing pixels, you can find me with a sketchbook, capturing the world or lost in the pages of a good design book.
