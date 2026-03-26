@@ -1,5 +1,5 @@
-title:            Dingjiu's Work
-longtitle:        定玖的作品集
+title:            定玖的作品集
+longtitle:        Dingjiu's Work
 remote_theme:     sighingnow/jekyll-gitbook
 source              : .
 destination         : ./_posts
