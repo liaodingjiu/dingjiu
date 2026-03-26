@@ -1,16 +1,4 @@
-title: Dingjiu's workshop
-description: Minimal is a theme for GitHub Pages.
-show_downloads: false
-theme: jekyll-theme-minimal
-
-# Githhub风格
-si: false
-safe: true
-source: [/]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+#title: Dingjiu's workshop
+#description: Minimal is a theme for GitHub Pages.
+#show_downloads: false
+#theme: jekyll-theme-minimal
