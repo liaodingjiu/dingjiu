@@ -2,7 +2,7 @@ title: Dingjiu's workshop
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 remote_theme: sighingnow/jekyll-gitbook
-  toc:
+toc:
     enabled: true
     h_min: 1
     h_max: 3
