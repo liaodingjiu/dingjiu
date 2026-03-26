@@ -3,7 +3,10 @@
 #show_downloads: false
 #theme: jekyll-theme-minimal
 remote_theme: sighingnow/jekyll-gitbook
-
+  toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
 
 # Where things are
 source              : .
@@ -77,7 +80,4 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
-  toc:
-    enabled: true
-    h_min: 1
-    h_max: 3
+
